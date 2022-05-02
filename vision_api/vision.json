@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stable-smithy-347206",
+  "private_key_id": "d9e20300564ae5da072f000c2811be29d25ed714",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDcUD6Qx61yDfyX\n+bJts0pAr/6T5t+XnBVRINTVEhugQn4NANUp3ap0c86ybm4noxd9CAbPbZeSt02j\nrMtgHHRxdxL3WS2QTaKz5vgzjoYEk0FU/ALtM4cQQHjkBxjvFpaYBCwRNPMOtdN0\nw4l4JiwzTeJ+sQ4lod9cSzkLQPHCUMedVeVDB0paRnOSZsbV951Q8/ueVkeHYgc2\nLiEvMLM0KVdUJFBZQ56RajCMAUTPygx3Aq/vzX1mVzYvP518lrLuXQnVQbLBKEs9\nxnhRx3RLElWW5AxIl01F+X4tVils7rrESbmnZpeBMtp/etDk5aOnPMPysYUWoTF2\ngs7OdcbnAgMBAAECggEAB8STbX2BS48izKxNi6C/22tAQ3eDu+itxbutxy2s/ZKc\nYe8Zak2kyaYCGoaTPyfAAjTyE6MALk3WknRpZjJKpPowGA/CKOZqFK7DYsn6f5ch\ny6B2bUlkF6vg8DOFatEZdaTKPL/3BNLQt+XVSrkJ1V7OsW1p8QC80on3xmz4Y+A1\ngO2isA3dfeCZvA/rcYxj6e71cp8+3PvPXH/gNscPpEriP6XQp+jFbHt6IGLmRgsa\nVfmJa3blVigXsq/IrL7xxVlC8M3fIeXBniFVeAjOKf69BUpgPMJbi8rN41v90M2y\n/l/vezeA+F/Yj1CzVt5nQHZc/mHebGxT9hR2q4IVCQKBgQD2y6gYpUY3Bo5ZtitB\nBUsCUW0GBc5wS9GSopvOQDqKhEiTJq9lImnmKJ8TYvictFEs+DSzeNqlrmgHGlQa\nF1aHEM+LYTAm9c69kFh+/z8XH0bzOyIHlo3HjhrynBDESJ+Sh6DRfrKXMDQYec4V\nca5A3oBVps/Q9oa/FTyQmxT03wKBgQDkh75My5VwProYWLwds+NG/cGie9Ct47os\nAC9kL+IwalGfs0NQUf1ApOm47k0RpS7P+fcy2u4zBTXmsamGDqmzevwe2sopoY7l\nZzt8m7oXhRmtwKXZu1IPi99RtkApmo+x800sB80ABz47/Ofs0RzrONJ58ezBMmFL\nz7au9hWm+QKBgEYRtm0g55mR2/KunQM97HkBA1I1bdJGRH88eb4KUFSpkC1vS1cM\neUKmf9uyOuHK9E0vP09BXdqydMinef9aZu+8HyD0fAZjvcnmZKnR8GixMaS3Qkcj\nQKfKue3tz3jbIasppMg2D6CLSA827gL6nr2+LnOjA9fRVpqD/gkUbtPDAoGAFsxb\n9blRnTMEya0Ah04M3GYwTQ9hEBfp2L3j/HCydfYFUpNFodusEijhkCtl0N7TvrfH\nK3Gf1cMtT2hl6xPHZjpcsI9PH7wYT1ZvHs1CUVpb53OSmBgR5a8khjhSSlQ7BZuq\nFTxp/Ri74qwmTv/FjMnMZZH29ocaIcAFD4tJObECgYADsSm5kF+E8N5vIeg3qMmZ\n2e3DWCBqmZ3cJFcsqxBFajTYVbfy9FeDhd14wfPQQMhOo4aMyjsLItINKbbSxOul\nwXPDxXe6ajj5EvjTkftPx9Hv7oZaso1dKqG+jujbIg6S/TiqyJDl+Qia0eRk6FO3\nJXTMv407vsNQtQYBQCGzug==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api@stable-smithy-347206.iam.gserviceaccount.com",
+  "client_id": "110468791253375057877",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api%40stable-smithy-347206.iam.gserviceaccount.com"
+}

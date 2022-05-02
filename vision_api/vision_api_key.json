@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ultra-hangar-347209",
+  "private_key_id": "b174389fdbf81787c38fd1b204aeb8902b8c061e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDhOcggJ1QUxbph\nfOGa0HNcFM8aT+9323OehMyAuG4V+dqVE7B/Ev7ZfCLp+DL5l6w7rMKW89jcl3bU\no3WY9dZw1fWI18gZ70jXQPK4wA0gZ3iYIu7vo5GvAg/f1g4yj2BEOdhswATnKhYN\nl/pX3ovjT+k0FuW6l6Ir2KT9tUAdP34Mlz0WfigX7H7xlzxAKKliKBBXX3am6zXE\njvERmOJh+K6zDsnZJaBXlUZFGdckZLv2L2Pyxln4YxuNAWOWJFDIC/cr7qy/Y9Dn\nAqe/g5/3HqcqWn9PgRYk/vgmF3/R5Ce7AlBCctNAnKaNoqoub0eTr9zpvzKRnkJi\niVXafVYJAgMBAAECggEACPu7Bb1L10BDvNu0S+6Ai22xDQWfMZKpO+tkFMZGbc33\nb/bHFWp2i8otwlNKBTaNghvT7x1uyu2nqbeTWzSDByEhmAGzU4V9zEgk5kWSwHYg\nE0FhcmF90BMu+uiYzF93oYEFJuFJ0MaW9pfXPmX8AmcPkCpRo22k5EbR3eS61++7\nNwzcNGXm9X0Ak+9+s3uHIZJtBIyqLKH3zu0R9vBVWzl2g5LuKjTq+jqDcjtV4DDZ\ndp30TAt/E9K5BcD7tdN8jBRUXX+UAsktOUDJbntcw7rRuqc8gmHTJu2BQOjWM/9g\n4MgT8xZOlPK5mbko5SLZkUlqjqD1VdLvyMgIJWClYQKBgQD4DdhLSd0O9AN5olR3\ncnU4F4XUqPq229rNWV66yKyRFaOsMV3dZ0I+qAZXDxCTKApacwsHAaSc0O47oMDj\nWaru9nUONMxvWfTdGERfo/RUUgNg3sJfr7EhSMUCkxrPTSEabrUJo6MLg1bSFp5I\njaUhxf12YSAFrI/K7N0DrXuejQKBgQDocLviM9dqrmSbcubYGUiiWMeWE7BIlALZ\niwdiWrfLwlxIVH/7albT9ezJiAdL3ewkD9UkiCqjj9+8bIuSLUZrdXILEDXf7mzM\nARSXs6v3UIg6/JCREcZnkMCy8DYqdoEnh1xJP5gvn19vWliLUa8MhemmlAeTpif3\nx/SzlIskbQKBgHgGQvVTHTqiCZhuWo6dfGiSwTgAN6gJQ5r/Nl4MwatGHDcyf+ek\nkiI9LSws5uk9g5z2c4yFWABk/BEwHIUlmxcbe9JO6+ipT1k358WbUJsIQAg8YTLp\nkTy4uFMhmORbvrvKe6DZZAgrGfR360jR+OgZpCYGovb742veJqcj51/1AoGAVvC7\nxdsAKv350Y8DuzaRzW+Jj5/jovIBst7mryohbwxOuhspF5/pxDRLEgJYQE9MoRxu\n69AmqrEIzZCID+/xVAZE1tCEZjLm7NNGoYtpugKcQfvwEuLkJB6nhQaGLBHRMzjV\nEuy/fqiM6LiRP+MYp4V7JHxf7SEL+AkJhRX9iW0CgYAgLdna9hLs1pZrLtgLxSMu\n+fwZ3k/NGPaW9/Q/fNx5f6AvcW/W6pIneOgLibBvQz3htTamLduA/XWJ7H4hDXEz\nE1XUGjGiF+SREP6dx9M1FPidL1dLobNuRzONwem401FqmtwRthbTmR8KsV9aa+/a\n1Ck23aJ72fwemyF2eKDStA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api@ultra-hangar-347209.iam.gserviceaccount.com",
+  "client_id": "104448154001792166400",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api%40ultra-hangar-347209.iam.gserviceaccount.com"
+}
